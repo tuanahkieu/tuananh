@@ -10,7 +10,7 @@ public class DesktopLauncher {
       Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
       //Texture icon = new Texture("")
       config.setWindowIcon("icon2.jpg");
-      config.setTitle("SURVIVAL BATTLE GAME");
+      config.setTitle("Bugged by Mr. Hoas");
       config.setWindowedMode(CuocChienSinhTon.V_WIDTH*2,CuocChienSinhTon.V_HEIGHT*2 );
       config.useVsync(true);
       config.setForegroundFPS(80);

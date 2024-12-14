@@ -50,8 +50,8 @@ public class WinScreen implements Screen {
 		this.game = game;
 		camera = new OrthographicCamera();
 		backgroundTexture = new Texture("Menu/WinScreen.png");
-		exitButton = new Texture("Menu/Exit.png");
-		exitButtonHover = new Texture("Menu/ExitHover.png");
+		exitButton = new Texture("Menu/Exit1.png");
+		exitButtonHover = new Texture("Menu/ExitHover1.png");
 		
 		gamePort = new FitViewport(CuocChienSinhTon.V_WIDTH, CuocChienSinhTon.V_HEIGHT,camera);	
 		batch = game.getBatch();	
