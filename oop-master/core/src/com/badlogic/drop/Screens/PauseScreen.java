@@ -71,6 +71,9 @@ public class PauseScreen implements Screen{
 		 resumeButtonStyle.over = new TextureRegionDrawable(resumeButtonHover);
 		 ResumeButton = new ImageButton(resumeButtonStyle);
 		
+		//  ResumeButton.setSize(70, 40);
+
+
 		 ResumeButton.addListener(new ClickListener() {
 	            @Override
 	            public void clicked(InputEvent event, float x, float y) {
@@ -112,7 +115,7 @@ public class PauseScreen implements Screen{
 		 
 		 
 
-		 tabel.add(ResumeButton).padTop(10);
+		 tabel.add(ResumeButton).size(70, 50).padTop(10);
 		 tabel.row();
 		 tabel.add(OptionButton).padTop(10);
 		 tabel.row();

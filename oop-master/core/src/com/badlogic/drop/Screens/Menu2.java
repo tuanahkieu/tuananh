@@ -51,14 +51,14 @@ public class Menu2 implements Screen {
 		this.game = game;
 		camera = new OrthographicCamera();
 		backgroundTexture = new Texture("menu_background.jpg");
-		playButton = new Texture("Menu/Play.png");
-		playButtonHover = new Texture("Menu/PlayHover.png");
+		playButton = new Texture("Menu/Play1.png");
+		playButtonHover = new Texture("Menu/PlayHover1.png");
 
-		exitButton = new Texture("Menu/Exit.png");
-		exitButtonHover = new Texture("Menu/ExitHover.png");
+		exitButton = new Texture("Menu/Exit1.png");
+		exitButtonHover = new Texture("Menu/ExitHover1.png");
 		
-		optionButton = new Texture("Menu/Option.png");
-		optionButtonHover = new Texture("Menu/OptionHover.png");
+		optionButton = new Texture("Menu/Option1.png");
+		optionButtonHover = new Texture("Menu/OptionHover1.png");
 		
 		
 		gamePort = new FitViewport(CuocChienSinhTon.V_WIDTH, CuocChienSinhTon.V_HEIGHT,camera);	
@@ -117,11 +117,11 @@ public class Menu2 implements Screen {
 		 
 		 
 
-		 tabel.add(PlayButton).padTop(10);
+		 tabel.add(PlayButton).size(160, 60).padTop(10);
 		 tabel.row();
-		 tabel.add(OptionButton).padTop(10);
+		 tabel.add(OptionButton).size(160, 60).padTop(10);
 		 tabel.row();
-		 tabel.add(ExitButton).padTop(10);
+		 tabel.add(ExitButton).size(160, 60).padTop(10);
 	    // Add the button to the stage
         stage.addActor(tabel);
 

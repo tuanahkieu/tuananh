@@ -63,7 +63,8 @@ public class FirstMap extends PlayScreen {
 	private boolean isOnStage = false;
 	
 	public Music map1Music;
-	
+	public Texture backgroundTexture;
+	public Texture backgroundTexture1;
 	public FirstMap(CuocChienSinhTon game) {
 		super(game);
 		// load map
@@ -72,7 +73,8 @@ public class FirstMap extends PlayScreen {
 		camera = new OrthographicCamera();
 		
 		// load background
-		backgroundTexture = new Texture("bg1.png");
+		backgroundTexture = new Texture("bg1.jpg");
+		backgroundTexture1 = new Texture("bg2.jpg");
 		
 		// viewport => responsive 
 		gamePort = new FitViewport(CuocChienSinhTon.V_WIDTH/CuocChienSinhTon.PPM, CuocChienSinhTon.V_HEIGHT/CuocChienSinhTon.PPM,camera);		
@@ -297,6 +299,10 @@ public class FirstMap extends PlayScreen {
 
 		//Draw background
 		game.batch.begin();
+		if(stageCr > 4 )game.batch.draw(backgroundTexture1, camera.position.x - gamePort.getWorldWidth() / 2,
+				camera.position.y - gamePort.getWorldHeight() / 2, gamePort.getWorldWidth(),
+				gamePort.getWorldHeight());
+		else
 		game.batch.draw(backgroundTexture, camera.position.x - gamePort.getWorldWidth() / 2,
 				camera.position.y - gamePort.getWorldHeight() / 2, gamePort.getWorldWidth(),
 				gamePort.getWorldHeight());
