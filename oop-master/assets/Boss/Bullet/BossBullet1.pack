@@ -1,0 +1,26 @@
+
+BossBullet1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kame1
+  rotate: false
+  xy: 1, 1
+  size: 44, 2
+  orig: 640, 400
+  offset: 356, 119
+  index: -1
+kame2
+  rotate: false
+  xy: 1, 5
+  size: 44, 6
+  orig: 640, 400
+  offset: 308, 117
+  index: -1
+kame3
+  rotate: false
+  xy: 1, 13
+  size: 44, 10
+  orig: 507, 285
+  offset: 127, 0
+  index: -1

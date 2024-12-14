@@ -1,0 +1,96 @@
+
+BossAttack1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Boss-attack1
+  rotate: false
+  xy: 358, 67
+  size: 31, 35
+  orig: 160, 128
+  offset: 61, 15
+  index: 11
+Boss-attack1
+  rotate: false
+  xy: 358, 67
+  size: 31, 35
+  orig: 160, 128
+  offset: 62, 15
+  index: 2
+Boss-attack1
+  rotate: false
+  xy: 208, 65
+  size: 30, 36
+  orig: 160, 128
+  offset: 62, 14
+  index: 1
+Boss-attack1
+  rotate: false
+  xy: 208, 65
+  size: 30, 36
+  orig: 160, 128
+  offset: 62, 16
+  index: 10
+Boss-attack1
+  rotate: false
+  xy: 57, 64
+  size: 34, 37
+  orig: 160, 128
+  offset: 62, 13
+  index: 0
+Boss-attack1
+  rotate: false
+  xy: 509, 66
+  size: 30, 35
+  orig: 160, 128
+  offset: 62, 14
+  index: 12
+Boss-attack1
+  rotate: false
+  xy: 57, 64
+  size: 34, 37
+  orig: 160, 128
+  offset: 62, 17
+  index: 9
+Boss-attack1
+  rotate: false
+  xy: 1079, 54
+  size: 90, 48
+  orig: 160, 128
+  offset: 62, 19
+  index: 7
+Boss-attack1
+  rotate: false
+  xy: 658, 66
+  size: 32, 35
+  orig: 160, 128
+  offset: 62, 17
+  index: 4
+Boss-attack1
+  rotate: false
+  xy: 1079, 54
+  size: 90, 48
+  orig: 160, 128
+  offset: 62, 18
+  index: 8
+Boss-attack1
+  rotate: false
+  xy: 929, 54
+  size: 91, 47
+  orig: 160, 128
+  offset: 62, 19
+  index: 6
+Boss-attack1
+  rotate: false
+  xy: 808, 66
+  size: 34, 35
+  orig: 160, 128
+  offset: 62, 18
+  index: 5
+Boss-attack1
+  rotate: false
+  xy: 509, 66
+  size: 30, 35
+  orig: 160, 128
+  offset: 62, 16
+  index: 3

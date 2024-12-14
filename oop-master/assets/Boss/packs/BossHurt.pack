@@ -1,0 +1,40 @@
+
+BossHurt.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Boss-hurt
+  rotate: false
+  xy: 7, 4
+  size: 63, 63
+  orig: 160, 128
+  offset: 62, 13
+  index: 0
+Boss-hurt
+  rotate: false
+  xy: 87, 0
+  size: 64, 63
+  orig: 160, 128
+  offset: 59, 17
+  index: 1
+Boss-hurt
+  rotate: false
+  xy: 250, 2
+  size: 62, 65
+  orig: 160, 128
+  offset: 61, 16
+  index: 3
+Boss-hurt
+  rotate: false
+  xy: 169, 2
+  size: 62, 60
+  orig: 160, 128
+  offset: 59, 17
+  index: 2
+Boss-hurt
+  rotate: false
+  xy: 87, 0
+  size: 64, 53
+  orig: 160, 128
+  offset: 62, 13
+  index: 4

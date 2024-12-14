@@ -1,0 +1,61 @@
+
+BossIdle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Boss-idle
+  rotate: false
+  xy: 88, 4
+  size: 64, 64
+  orig: 160, 128
+  offset: 62, 16
+  index: 5
+Boss-idle
+  rotate: false
+  xy: 0, 7
+  size: 81, 58
+  orig: 160, 128
+  offset: 62, 13
+  index: 0
+Boss-idle
+  rotate: false
+  xy: 0, 7
+  size: 81, 58
+  orig: 160, 128
+  offset: 62, 17
+  index: 4
+Boss-idle
+  rotate: false
+  xy: 169, 5
+  size: 67, 59
+  orig: 160, 128
+  offset: 62, 16
+  index: 2
+Boss-idle
+  rotate: false
+  xy: 250, 6
+  size: 67, 58
+  orig: 160, 128
+  offset: 62, 17
+  index: 3
+Boss-idle
+  rotate: false
+  xy: 88, 4
+  size: 64, 64
+  orig: 160, 128
+  offset: 62, 14
+  index: 1
+Boss-idle
+  rotate: false
+  xy: 169, 5
+  size: 67, 59
+  orig: 160, 128
+  offset: 62, 14
+  index: 6
+Boss-idle
+  rotate: false
+  xy: 250, 6
+  size: 67, 58
+  orig: 160, 128
+  offset: 62, 13
+  index: 7

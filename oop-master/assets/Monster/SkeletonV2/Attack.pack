@@ -1,0 +1,131 @@
+
+Attack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Skeleton Attack
+  rotate: false
+  xy: 57, 64
+  size: 34, 37
+  orig: 43, 37
+  offset: 10, 0
+  index: 8
+Skeleton Attack
+  rotate: false
+  xy: 808, 66
+  size: 34, 35
+  orig: 43, 37
+  offset: 6, 0
+  index: 14
+Skeleton Attack
+  rotate: false
+  xy: 57, 64
+  size: 34, 37
+  orig: 43, 37
+  offset: 3, 0
+  index: 0
+Skeleton Attack
+  rotate: false
+  xy: 1079, 54
+  size: 90, 48
+  orig: 43, 37
+  offset: 3, 0
+  index: 17
+Skeleton Attack
+  rotate: false
+  xy: 208, 65
+  size: 30, 36
+  orig: 43, 37
+  offset: 8, 0
+  index: 9
+Skeleton Attack
+  rotate: false
+  xy: 358, 67
+  size: 31, 35
+  orig: 43, 37
+  offset: 8, 0
+  index: 10
+Skeleton Attack
+  rotate: false
+  xy: 208, 65
+  size: 30, 36
+  orig: 43, 37
+  offset: 3, 0
+  index: 1
+Skeleton Attack
+  rotate: false
+  xy: 509, 66
+  size: 30, 35
+  orig: 43, 37
+  offset: 9, 0
+  index: 11
+Skeleton Attack
+  rotate: false
+  xy: 808, 66
+  size: 34, 35
+  orig: 43, 37
+  offset: 2, 0
+  index: 15
+Skeleton Attack
+  rotate: false
+  xy: 808, 66
+  size: 34, 35
+  orig: 43, 37
+  offset: 7, 0
+  index: 13
+Skeleton Attack
+  rotate: false
+  xy: 658, 66
+  size: 32, 35
+  orig: 43, 37
+  offset: 9, 0
+  index: 12
+Skeleton Attack
+  rotate: false
+  xy: 929, 54
+  size: 91, 47
+  orig: 43, 37
+  offset: 3, 0
+  index: 16
+Skeleton Attack
+  rotate: false
+  xy: 358, 67
+  size: 31, 35
+  orig: 43, 37
+  offset: 3, 0
+  index: 2
+Skeleton Attack
+  rotate: false
+  xy: 509, 66
+  size: 30, 35
+  orig: 43, 37
+  offset: 5, 0
+  index: 3
+Skeleton Attack
+  rotate: false
+  xy: 658, 66
+  size: 32, 35
+  orig: 43, 37
+  offset: 4, 0
+  index: 4
+Skeleton Attack
+  rotate: false
+  xy: 808, 66
+  size: 34, 35
+  orig: 43, 37
+  offset: 1, 0
+  index: 5
+Skeleton Attack
+  rotate: false
+  xy: 929, 54
+  size: 91, 47
+  orig: 43, 37
+  offset: 0, 0
+  index: 6
+Skeleton Attack
+  rotate: false
+  xy: 1079, 54
+  size: 90, 48
+  orig: 43, 37
+  offset: 3, 0
+  index: 7

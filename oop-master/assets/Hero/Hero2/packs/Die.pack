@@ -1,0 +1,54 @@
+
+Die.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Death
+  rotate: false
+  xy: 462, 3
+  size: 35, 47
+  orig: 162, 162
+  offset: 60, 61
+  index: 0
+Death
+  rotate: false
+  xy: 542, 10
+  size: 35, 38
+  orig: 162, 162
+  offset: 64, 61
+  index: 1
+Death
+  rotate: false
+  xy: 702, 12
+  size: 35, 36
+  orig: 162, 162
+  offset: 65, 61
+  index: 2
+Death
+  rotate: false
+  xy: 941, 35
+  size: 55, 18
+  orig: 162, 162
+  offset: 69, 61
+  index: 5
+Death
+  rotate: false
+  xy: 862, 23
+  size: 52, 25
+  orig: 162, 162
+  offset: 69, 61
+  index: 4
+Death
+  rotate: false
+  xy: 941, 25
+  size: 55, 18
+  orig: 162, 162
+  offset: 69, 61
+  index: 6
+Death
+  rotate: false
+  xy: 782,  16
+  size: 40, 33
+  orig: 162, 162
+  offset: 68, 61
+  index: 3

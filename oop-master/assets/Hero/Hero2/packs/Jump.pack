@@ -1,0 +1,26 @@
+
+Jump.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Jump
+  rotate: false
+  xy: 139, 5
+  size: 22, 56
+  orig: 162, 162
+  offset: 64, 58
+  index: 0
+Jump
+  rotate: false
+  xy: 196, 2
+  size: 35, 58
+  orig: 162, 162
+  offset: 66, 59
+  index: 2
+Jump
+  rotate: false
+  xy: 456, 6
+  size: 31, 56
+  orig: 162, 162
+  offset: 68, 59
+  index: 1

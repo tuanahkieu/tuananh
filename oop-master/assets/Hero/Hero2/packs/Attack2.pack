@@ -1,0 +1,54 @@
+
+Attack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack2
+  rotate: false
+  xy: 679, 19
+  size:55, 56
+  orig: 162, 162
+  offset: 67, 61
+  index: 6
+Attack2
+  rotate: false
+  xy: 495, 10
+  size: 62, 66
+  orig: 162, 162
+  offset: 61, 61
+  index: 4
+Attack2
+  rotate: false
+  xy: 583, 19
+  size: 55, 45
+  orig: 162, 162
+  offset: 41, 61
+  index: 5
+Attack2
+  rotate: false
+  xy: 128, 0
+  size: 55, 64
+  orig: 162, 162
+  offset: 19, 61
+  index: 1
+Attack2
+  rotate: false
+  xy: 222, 3
+  size: 35, 61
+  orig: 162, 162
+  offset: 20, 61
+  index: 2
+Attack2
+  rotate: false
+  xy: 317, 14
+  size: 36, 49
+  orig: 162, 162
+  offset: 25, 61
+  index: 3
+Attack2
+  rotate: false
+  xy: 32, 19
+  size: 37, 46
+  orig: 162, 162
+  offset: 65, 61
+  index: 0
